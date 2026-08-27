@@ -1,6 +1,6 @@
 # Achievement Farm 🏆
 
-This repository is used to earn GitHub achievements through legitimate open-source activity.
+This repository is used to earn GitHub achievements through legitimate open-source activity
 
 ## Achievements Earned
 
